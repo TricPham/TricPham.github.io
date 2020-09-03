@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://tricpham.github.io/images/tri pham.png",
     "email": "Tripham@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://tricpham.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -41,7 +41,12 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Virtual Reality",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "Argumented Reality",
       "keywords": [
       ]
     },
