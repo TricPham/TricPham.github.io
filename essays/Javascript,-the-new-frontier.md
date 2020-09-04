@@ -20,7 +20,7 @@ to
 ```
 const myFunc(name) = name =>'Hello ${name}';
 ```
-making it more readable and understandable. It's something taking use to since I'm still familiar with the traditional way. It's not difficult per say, just new and different.
+making it more readable and understandable. It's something taking use to since I'm still familiar with the traditional way. It's not difficult per say, just new and different. 
 
 Not only is javascipt a new thing for me, I'm being taught a different approach to programming. Professor Johnson is assigning the class WODs to program within a certain timeframe. For instance; one of the WODs was to create a blackjack checker, a program that takes a string of characters 1-9 and TJKQA and return blackjack, busted or their values, within 15 mins. It was pretty stressful due to the vast contrast of before where I could take my time to think it out and look up some information. While this style of programming is opposite of what I prefer, it would help me learn to get things done in a timely manner. I would need a lot more practices to be at a point where I would be content with my programming ability. 
 
