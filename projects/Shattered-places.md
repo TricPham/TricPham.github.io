@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/still2.jpg
-title: Micromouse
+title: Shattered Places
 permalink: projects/Shattered Places
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
