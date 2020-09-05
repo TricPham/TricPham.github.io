@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/site.png
+image: images/Site.png
 title: Simple site
 permalink: projects/Pending Project
 # All dates must be YYYY-MM-DD format!
@@ -12,8 +12,7 @@ labels:
   - Html
 summary: A web page of a mock tour company
 ---
-
-
+Web page 
 
 
 
