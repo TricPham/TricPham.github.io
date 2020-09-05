@@ -16,7 +16,7 @@ I had many aspirations when I was a young child, there was so many choices of wh
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/sunset_beach.jpg">
+  <img class="ui image" src="../images/sunset_beach.jpg" style="width:650px; height:300px;">
 </div>
 
 The project was to create a web site for a fake company that offer something, it doesn't matter as long as there was a product to be sold. I was in a group of three along side Mason Arakaki and Tyler Bush. The criteria was to have a least 6 pages of html and a couple of CSS to make the page look pretty. We decided on showcasing the attractions of Oahu with various beachs, hikes and malls 
