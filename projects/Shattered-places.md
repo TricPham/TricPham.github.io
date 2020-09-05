@@ -12,7 +12,7 @@ labels:
 summary: A game designed and made within the span of 48 hours
 ---
 
-<div class="ui small rounded images">
+<div class="images">
   <img class="ui image" src="../images/shatteredplace1.png">
 </div>
 
