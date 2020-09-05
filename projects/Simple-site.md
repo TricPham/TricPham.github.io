@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Site.png
 title: Simple site
-permalink: projects/Pending Project
+permalink: projects/Simple Site
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-19
 labels:
