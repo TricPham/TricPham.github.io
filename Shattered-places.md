@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/still2.jpg
-title: Micromouse
+image: images/shatteredplace1.png
+title: Shattered Places
 permalink: projects/Shattered Places
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
@@ -13,7 +13,7 @@ summary: A game designed and made within the span of 48 hours
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/shatteredplace1.png">
+  <img class="ui image" src="../images/still2.jpg">
 </div>
 
 Shattered Places is a short 2-d platformer game made for an event called Global Game Jam. Global Gam Jam is an event where people around the global get creative and colaborate with one another to express themselves via games. This usually take places in local area to foster community and friendship. This year's theme was repair, game's design revolves around the idea of repair in whichever sense the group decides. Shattered Places takes the theme to agrument the viewing screen of the game. The screenshot shows the game screen cracked and missing vision, the task of the player is to go through the levels to retrieve the broken pieces and fix the screen.
