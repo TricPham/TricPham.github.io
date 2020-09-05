@@ -36,8 +36,8 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Machine learning",
+        "Video Gaming"
       ]
     },
     {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial intelligence",
       "keywords": [
       ]
     }
@@ -72,13 +72,18 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Window",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
+    {
+      "name": "Foreign Language"
+      "level": "",
+      "keywords": [
+        "Vietnamese"
+        "French"
+    ]
+   ]
   ],
   "education": [
     {
