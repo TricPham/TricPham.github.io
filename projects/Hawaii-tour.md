@@ -19,7 +19,7 @@ I had many aspirations when I was a young child, there was so many choices of wh
   <img class="ui image" src="../images/sunset_beach.jpg" style="width:650px; height:300px;">
 </div>
 
-The project was to create a web site for a fake company that offer something, it doesn't matter as long as there was a product to be sold. I was in a group of three along side Mason Arakaki and Tyler Bush. The criteria was to have a least 6 pages of html and a couple of CSS to make the page look pretty. We decided on showcasing the attractions of Oahu with various beachs, hikes and malls 
+The project was to create a web site for a fake company that offer something, it doesn't matter as long as there was a product to be sold. I was in a group of three along side Mason Arakaki and Tyler Bush. The criteria was to have a least 6 pages of html and a couple of CSS to make the page look pretty. We decided on showcasing the attractions of Oahu with various beachs, hikes and malls. We split up the work evenly 6 pages 3 people done deal, we work together on the css to make sure the layout is consistent. Getting the css to work was really diffcult because I have a weird sense of design and tend to mess up on assigning the correct object the correct value. It was one of the more enjoyable project I've worked on since it came out looking neat and decent.
 
 
 
