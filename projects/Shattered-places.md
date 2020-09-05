@@ -1,3 +1,4 @@
+---
 layout: project
 type: project
 image: images/still2.jpg
