@@ -25,5 +25,7 @@ this
 Smart questions aren't really about the subject asked but the way the question was posed. For instance I could just ask what is quantum mechanics a seemly intelligent subject but the way I asked doesn't lead to deep thoughts, it leads to me being told to go google it. With the amount of information at the palms of our hand, we should look through it first before having someone spoon fed us the answers.
 
 Read Eric Raymond's guide [here](http://www.catb.org/esr/faqs/smart-questions.html)
+
 The not so smart question [here](https://stackoverflow.com/questions/28588915/how-do-you-write-a-line-of-output)
+
 The smart question [here](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
