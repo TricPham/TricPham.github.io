@@ -92,17 +92,26 @@
       "studyType": "B.S.",
       "startDate": "2018-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.95",
       "courses": [
       ]
     },
     {
       "institution": "Kapiolani Community College, Honolulu, HI",
-      "area": "Information Technology ",
-      "studyType": "B.S.",
+      "area": "Information Technology (graduated)",
+      "studyType": "A.S.",
       "startDate": "2016-09-01",
       "endDate": "2018-05-31",
       "gpa": "3.56",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "illinois institute of technology, Chicago, IL",
+      "area": "Information Technology (attempted)", "Aerospace Engineering (attempted)
+      "studyType": "B.S.",
+      "startDate": "2012-09-01",
+      "endDate": "2015-12-01", 
       "courses": [
       ]
     }
