@@ -22,3 +22,30 @@ The Observer design is for event driven system, or for a reactive system. There 
 The model view controller sounds very complicated at first, but it is really just the interaction of the user with the program through a GUI. Every single website you have interact with is a model view controller, the way the data is presented is not the way model is made. By clicking or sometime hovering over something, the view changes allowing the controller more options. 
 
 # Design pattern detected 
+
+Initially I did not understand the idea of design pattern, it is like kind of a are these methods or ideas sort of things. How should I interpret this knowledge. Then something clicked, I have seen these ideas before, I have written a lot of codes that follow these design pattern before even if I did not know about it. Especially the model view controller, I was programing using Visual Studio in one of my previous class. The whole thing about Visual Studio is that there are two side, the visible GUI front side and the messy jumble of code back side. The projects that were assigned had us create the GUI which was basically putting buttons, input fields, and display fields in a sensible manner and then we program function into the buttons, take data from the input, and display whatever it was that need to be done in the display field. 
+```
+      private void buttonRemoveVehicle_Click(object sender, EventArgs e)
+        {
+            //if any selection is made in the listbox
+            if(listBoxAllVehicles.SelectedIndex > -1)
+            {
+                //remove from the list first then the lisbox
+                vehicleList.RemoveAt(listBoxAllVehicles.SelectedIndex);
+                listBoxAllVehicles.Items.RemoveAt(listBoxAllVehicles.SelectedIndex);
+               
+                if(vehicleList.Count < 1)
+                {
+                    //if there is no vehicle then both modify and remove button will be disabled
+                    buttonModify.Enabled = false;
+                    buttonRemoveVehicle.Enabled = false;
+                }
+            }
+            else
+            {
+                errorProviderInput.SetError(buttonRemoveVehicle, "Please select a vehicle to remove");
+            }
+        }
+```
+This code was to make one of the marked button delete a selected item off of the list. In turn this also uses observer design with the error provider at the buttom. It only activate when the user did not select a vehicle and press the button. While this was not something I have done personally, my coworker made a very simple water obsever that sends a email whenever the physical detector sense water
+
