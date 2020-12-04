@@ -9,5 +9,6 @@ labels:
   - Pattern
 ---
 
-# Mostly designs, and some patterns
-Hey you, have you ever wonder what a design pattern is? Well me too, 
+# Mostly patterns, some designs
+
+Patterns are abundant and everywhere; sometimes simple and upfront, other time complex and hidden. One could find a pattern in mostly anything and in programing there are plenty. That is not to say it is a bad thing, not everything has to be creative or unique. You still need the fundamentals to make sure the program is stable. Design patterns is an umbrella term for designs that show up frequently that works in a given environment. For example, a house designed in Canada would not work in someplace like Egypt due to the environment being completely different, but it could work in Norway. Similar to programing, there are certain designs that consistently pop up due to it ability to solve problems. There is a brunch of design patterns, the following are just some of the more popular. Factory, 
