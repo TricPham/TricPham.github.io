@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/landing.png
 title: Manoa Club Finder
-permalink: projects/Pending Project
+permalink: projects/Manoa Club Finder
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
