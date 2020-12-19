@@ -1,15 +1,12 @@
-
 ---
 layout: essay
 type: essay
 title: The Final Lesson
 date: 2020-12-18
 labels:
-  - Software Engineering
   - Learning
-  - Coding standards
-  - Agile project management 
-  - Design patterns
+  - Design
+  - Pattern
 ---
 
 # There is no final lessson
