@@ -24,6 +24,7 @@ emailCheck() {
 }
 ```
 This was my helper function to check the current user email address and compare it the email of the clubs. It looks simple and it was simple but it took some time since meteor user method was a bit confusing. I also populate the default club database; it was just very tedious. 
+
 The main thing I took out of this was how to work in a group more effective. Before my previous group mates and I would only meet up once a week to work on the project then and later got confused on what needed to be done. With GitHub and the project management board, we are able to work on current issue instead of assigning each person a task and waiting on them to finish. We kept track of our progress and was able to work at our own pace. It felt more professional rather than some assignment that needs to be done. 
 
 
