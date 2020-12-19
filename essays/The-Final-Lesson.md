@@ -7,6 +7,9 @@ date: 2020-12-18
 labels:
   - Software Engineering
   - Learning
+  - Coding standards
+  - Agile project management 
+  - Design patterns
 ---
 
 # There is no final lessson
