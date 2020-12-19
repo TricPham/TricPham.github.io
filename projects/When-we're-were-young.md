@@ -9,7 +9,6 @@ date: 2020-09-01
 labels:
   - Play
   - theatre performance
-  - WIP
 summary: A digital virtual experience 
 ---
 
@@ -23,3 +22,5 @@ Unfortunately the project fell through and there was no work or plans regarding 
 <div class="images">
   <img class="ui small image" src="../images/limbo.webp">
 </div>
+
+I wanted to bring up Limbo, a puzzle platformer gamer that I was planning to draw inspiration from. It had a simplisic design and the coloring of the game fit thematically with the idea of the play. Because it is simple, we can do so many things like represent the duality of race with the color, represent a character mental state with the stage of the game, the list goes on. But the project has been dropped, the could had being are now just what ifs. Maybe one day I will take this on.
