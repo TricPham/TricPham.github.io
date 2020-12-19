@@ -17,7 +17,7 @@ The goal of this project is to let people experience a play at home via a game. 
 
 As of 9/4/20, we have just begun formulating ideas. I'm bringing in my experiences with gaming and coding while they are the script writter and director. This would be a challenge as we have to maintain the border of actor and audience while letting the audience engage along side the story. The premise of the story revolves around races and how the justice system differ between them.
 
-Unfortunately the project fell through and there was no work or plans regarding this story. It was something that I had great interest in. The concept of visual novel game is nothing new and there are plenty of story driven games, I felt like this project could have been different from the rest and maybe achieve sopmething great.
+Unfortunately the project fell through and there was no work or plans regarding this story. It was something that I had great interest in. The concept of visual novel game is nothing new and there are plenty of story driven games, I felt like this project could have been different from the rest and maybe achieve something great.
 
 <div class="images">
   <img class="ui small image" src="../images/limbo.webp">
