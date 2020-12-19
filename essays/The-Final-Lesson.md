@@ -25,3 +25,6 @@ This is another one of those concepts that you cannot escape from. PROJECTS. The
 # Still Mostly Patterns
 
 I have gone over design pattern in detail in another one of my essays, but it still stands out to me out of everything else I have learned. The concept itself is quite simple, there are a bunch of problems that reappears from time and time again and there are these solutions that just work because we have solved these problems time and time before. This is similar to learning about history, you learn from what had happen and see how you can apply what the forerunner did to your problems. The answer is not given directly but the core idea on how to solve it would be more than enough to start you on the right path. Who knows what the future may bring but nothing is impossible, there will be a patteren somewhere within whatever problems that will come.
+
+
+[Manoa Club Finder](https://manoa-clubs-finder.xyz/#/).
