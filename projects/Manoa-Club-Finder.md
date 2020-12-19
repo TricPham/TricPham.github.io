@@ -13,7 +13,7 @@ labels:
 summary: A website application for finding clubs at the University of Hawaii at Manoa
 ---
 <div class="images">
-  <img class="ui medium image" src="../images/admin.png">
+  <img class="ui large image" src="../images/admin.png">
 </div>
 
 The Manoa Club Finder is an application meant for student to host and/or find clubs that appeal to their hobbies and interest. This was a group project assigned to me and my groupmates. The main function is for it to be a club database so people can easily search for the right club or for the club to promote themselves and find more like mind individuals. The application features a club filter to show the different fields of club such as academic or recreational.  Each club listing contains the name, the club leader and their contact information, some description, and pictures, and URLS to their own site if any. There are three users: normal, club admin, and super admin. The user can only see and filter the clubs, the club admin is able to edit own their clubs, and the super admin can edit and add clubs.
