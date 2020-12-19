@@ -5,8 +5,9 @@ title: The Final Lesson
 date: 2020-12-18
 labels:
   - Learning
-  - Design
-  - Pattern
+  - Coding Standards
+  - Agile Project Management 
+  - Design Patterns
 ---
 
 # There is no final lessson
