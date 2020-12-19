@@ -20,3 +20,6 @@ As of 9/4/20, we have just begun formulating ideas. I'm bringing in my experienc
 
 Unfortunately the project fell through and there was no work or plans regarding this story. It was something that I had great interest in. The concept of visual novel game is nothing new and there are plenty of story driven games, I felt like this project could have been different from the rest and maybe achieve sopmething great.
 
+<div class="images">
+  <img class="ui image" src="../images/limbo.webp">
+</div>
